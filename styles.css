@@ -33,3 +33,15 @@ h2{
 p{
     font-size: 20px;
 }
+.centered
+{
+    max-width: 650px; 
+    margin-left: 16px;
+    margin-right:16px;
+}
+.paragraphcontainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
